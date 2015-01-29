@@ -1,0 +1,13 @@
+{
+  "name": "jfmt",
+  "description": "Batch cli to beautify js, html, and css files",
+  "version": "0.0.1",
+  "bin": {
+    "jfmt": "bin/jfmt"
+  },
+  "dependencies": {
+    "commander": "^2.6.0",
+    "ufinder": "^0.0.5",
+    "beautifile": "^1.0.1"
+  }
+}
