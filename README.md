@@ -23,9 +23,9 @@ $ jfmt -h
     -V, --version               output the version number
     -p, --path [path]           input search directory default .
     -r, --recursive             recursive
-    -f, --format [filter]       file format default js|css|html
+    -f, --format [filter]       file format default js|css|html|json
     -e, --excludeFile [filter]  file exclude filter
-    -I, --includeDir [filter]   directory exclude filter
+    -I, --includeDir [filter]   directory include filter
     -E, --excludeDir [filter]   directory exclude filter
 ```
 

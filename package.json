@@ -1,34 +1,34 @@
 {
-  "name": "jfmt",
-  "description": "Batch cli to beautify js, html, and css files",
-  "version": "0.0.1",
-  "repository": {
-    "type": "git",
-    "url": "https://github.com/jetiny/jfmt.git"
-  },
-  "keywords": [
-    "beautify",
-    "prettyprint",
-    "pretty",
-    "javascript",
-    "js",
-    "html",
-    "css",
-    "format",
-    "batch"
-  ],
-  "author": "jetiny",
-  "license": "MIT",
-  "bugs": {
-    "url": "https://github.com/jetiny/jfmt/issues"
-  },
-  "homepage": "https://github.com/jetiny/jfmt",
-  "bin": {
-    "jfmt": "bin/jfmt"
-  },
-  "dependencies": {
-    "commander": "^2.6.0",
-    "ufinder": "^0.0.5",
-    "beautifile": "^1.0.1"
-  }
+    "name": "jfmt",
+    "description": "Batch cli to beautify js, html, and css files",
+    "version": "0.0.2",
+    "repository": {
+        "type": "git",
+        "url": "https://github.com/jetiny/jfmt.git"
+    },
+    "keywords": [
+        "beautify",
+        "prettyprint",
+        "pretty",
+        "javascript",
+        "js",
+        "html",
+        "css",
+        "format",
+        "batch"
+    ],
+    "author": "jetiny",
+    "license": "MIT",
+    "bugs": {
+        "url": "https://github.com/jetiny/jfmt/issues"
+    },
+    "homepage": "https://github.com/jetiny/jfmt",
+    "bin": {
+        "jfmt": "bin/jfmt"
+    },
+    "dependencies": {
+        "commander": "^2.6.0",
+        "ufinder": "^0.0.5",
+        "beautifile": "^1.0.1"
+    }
 }
