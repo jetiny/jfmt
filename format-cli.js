@@ -32,7 +32,7 @@ function beautiJson(file, fn) {
 			return fn(err);
 		}
 		try {
-			data = JSON.stringify(JSON.parse(data), 4,4);
+			data = JSON.stringify(JSON.parse(data), null, 2);
 		} catch(err){
 			return fn(err);
 		}
