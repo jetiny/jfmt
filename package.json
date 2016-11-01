@@ -1,7 +1,7 @@
 {
     "name": "jfmt",
     "description": "Batch cli to beautify js, html, and css files",
-    "version": "0.0.3",
+    "version": "0.0.4",
     "repository": {
         "type": "git",
         "url": "https://github.com/jetiny/jfmt.git"
