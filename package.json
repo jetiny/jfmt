@@ -27,8 +27,8 @@
         "jfmt": "bin/jfmt"
     },
     "dependencies": {
-        "commander": "^2.6.0",
+        "commander": "^2.9.0",
         "ufinder": "^0.0.5",
-        "beautifile": "^1.0.1"
+        "beautifile": "^1.0.10"
     }
 }
